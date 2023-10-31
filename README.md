@@ -3,7 +3,7 @@
 
 **ValerioCicco/ValerioCicco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Qualche informazione su di me:
 
 🔭 Sto attualmente lavorando su progetti di sviluppo full stack all'interno del mio corso di Academy. Sto mettendo in pratica le mie competenze sia sul front-end che sul back-end per creare applicazioni web innovative.
 
