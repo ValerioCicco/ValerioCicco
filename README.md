@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**ValerioCicco/ValerioCicco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ PER ASPERA AD ASTRA ✨
 
 Qualche informazione su di me:
 
